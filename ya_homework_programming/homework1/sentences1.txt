@@ -1,0 +1,3 @@
+In comparison to dogs, cats have not.
+As cat simply catenates streams of bytes.
+A common interactive use of cat for a single file.
